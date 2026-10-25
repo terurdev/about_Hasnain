@@ -1,0 +1,21 @@
+HUSNAIN ALI - VERCEL READY WEBSITE
+
+This ZIP contains the latest optimized portfolio with the original layout,
+responsive sizing, liquid glass cards, and fast-loading portrait images.
+
+Extract the ZIP first. index.html and vercel.json must stay at the project root.
+Keep the assets folder and its subfolders intact.
+
+OPTION 1 - GITHUB + VERCEL
+1. Upload the extracted files (not the ZIP) to your GitHub repository.
+2. In Vercel, add a new project and import that repository.
+3. Use Framework Preset: Other; leave Build Command empty;
+   set Output Directory to . (one dot); keep Root Directory at the repository root.
+4. Deploy. vercel.json already includes these settings.
+
+OPTION 2 - VERCEL CLI (COMPUTER)
+With Node.js installed, open a terminal in the extracted folder and run:
+  npx vercel --prod
+Follow the Vercel sign-in and project prompts.
+
+No npm install or application build is required for this website.
